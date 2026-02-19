@@ -6,6 +6,9 @@ target/
 app.key
 app.pub
 .env
+application.properties
+application.yml
+application.yaml
 
 ### STS ###
 .apt_generated
